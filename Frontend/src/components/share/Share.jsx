@@ -14,19 +14,19 @@ export default function Share() {
             <div className="shareButton">
                 <div className="shareOptions">
                     <div className="shareOption">
-                        <MdPermMedia htmlColor="blue" className="shareIcon"/>
+                        <MdPermMedia htmlcolor="blue" className="shareIcon"/>
                         <span className="shareOptionText">Photo or video</span>
                     </div>
                     <div className="shareOption">
-                        <MdLabelImportant htmlColor="tomato" className="shareIcon"/>
+                        <MdLabelImportant htmlcolor="tomato" className="shareIcon"/>
                         <span className="shareOptionText">Tag</span>
                     </div>
                     <div className="shareOption">
-                        <MdLocationPin htmlColor="violet" className="shareIcon"/>
+                        <MdLocationPin htmlcolor="violet" className="shareIcon"/>
                         <span className="shareOptionText">Location</span>
                     </div>
                     <div className="shareOption">
-                        <MdEmojiEmotions htmlColor="orange" className="shareIcon"/>
+                        <MdEmojiEmotions htmlcolor="orange" className="shareIcon"/>
                         <span className="shareOptionText">Feelings</span>
                     </div>
                     <button className="shareButtons">Share</button>
